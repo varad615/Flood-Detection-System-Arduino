@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "528684633501",
+    "firebase_url": "https://nodemcu-esp8266-ioe-default-rtdb.firebaseio.com",
+    "project_id": "nodemcu-esp8266-ioe",
+    "storage_bucket": "nodemcu-esp8266-ioe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528684633501:android:43248ccd4daa93ca4df374",
+        "android_client_info": {
+          "package_name": "com.ioe.flood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528684633501-stg8guc8tobi9av2p1ueir5dfrn4hstp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLi9XoCxBrO97kSBPYXviQQA-0J5gMX-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528684633501-stg8guc8tobi9av2p1ueir5dfrn4hstp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528684633501:android:c728b012c215c3d74df374",
+        "android_client_info": {
+          "package_name": "com.rait.sensordata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528684633501-stg8guc8tobi9av2p1ueir5dfrn4hstp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLi9XoCxBrO97kSBPYXviQQA-0J5gMX-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528684633501-stg8guc8tobi9av2p1ueir5dfrn4hstp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
